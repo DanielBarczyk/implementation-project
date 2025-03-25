@@ -2,6 +2,7 @@ import unittest
 
 from sample.simple import increment
 
+
 class TestSimple(unittest.TestCase):
 
     def test_add_one(self):
