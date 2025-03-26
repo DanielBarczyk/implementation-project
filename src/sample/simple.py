@@ -1,2 +1,2 @@
-def increment(number):
+def increment(number: int) -> int:
     return number + 1
