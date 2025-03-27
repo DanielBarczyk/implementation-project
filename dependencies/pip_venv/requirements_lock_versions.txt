@@ -1,3 +1,0 @@
-pip==24.2
-pygame==2.6.1
-pyopengl==3.1.9
