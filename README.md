@@ -10,7 +10,7 @@ This is an educational repository on the subject of:
  - `src/sample` - sample code to use for tests and GitHub actions
  - `tests` - tests for sample code for use in GitHub actions
  - `.github/workflows` - GitHub actions sample workflow examples
- - `dependency_management_demo` - code for comparison between `venv`, `poetry` and `pep723`
+ - `dependency_management_demo` - code for comparison between different dependency management tools
 
 ### Running the code
 The code is only meant to be used to demonstrate the behaviour of GitHub actions, but tests can be run with: \
